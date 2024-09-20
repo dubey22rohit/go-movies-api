@@ -28,7 +28,6 @@ This architecture makes the application scalable and easy to maintain by followi
 Ensure you have the following installed on your system:
 
 - **Go** (version 1.16 or higher): Download from [here](https://golang.org/dl/).
-- **MongoDB** (or any other database you prefer): Download from [here](https://www.mongodb.com/try/download/community).
 
 ### Steps to Set Up the Project
 
